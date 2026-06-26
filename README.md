@@ -6,7 +6,7 @@ I enjoy turning ideas into products, solving backend challenges, and figuring ou
 
 Currently focused on building scalable web applications, sharpening my backend skills, and solving DSA problems one bug at a time.
 
----
+<hr>
 
 ## 🌐 Connect with me
 
